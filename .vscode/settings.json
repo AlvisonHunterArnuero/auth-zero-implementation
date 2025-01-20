@@ -4,7 +4,5 @@
   },
   "css.lint.unknownAtRules": "ignore",
   "scss.lint.unknownAtRules": "ignore",
-  "settings": {
-    "editor.fontSize": 18
-  }
+  "editor.fontSize": 17
 }
